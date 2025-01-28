@@ -14,3 +14,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 String a="santhosh";
 ```
+
+- [x] list1
+- [x] list2
+- [ ] list3
